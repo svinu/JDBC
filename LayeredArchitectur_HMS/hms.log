@@ -1,0 +1,21 @@
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:in add patients method
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:resultset object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:generated id100
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:IN Finally BLOCK
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:in add patients method
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:resultset object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:generated id101
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:IN Finally BLOCK
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:in add patients method
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:statement object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:execute update called
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:statement created to get id
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:resultset object created
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:generated id102
+2019-01-14-main-INFO -com.cg.hms.dao.HmsDaoImpl:IN Finally BLOCK

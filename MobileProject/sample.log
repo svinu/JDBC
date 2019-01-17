@@ -1,0 +1,192 @@
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-00984: column not allowed here
+
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-00984: column not allowed here
+
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-00984: column not allowed here
+
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-16-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-00984: column not allowed here
+
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement created to get id
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:resultset object created
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:generated id100
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:statement created to get id
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:resultset object created
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:generated id101
+2019-01-16-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:resultset object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:generated id106
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-00903: invalid table name
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:in add mobiles method
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.mob.dao.MobDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007354) violated - parent key not found
+
+2019-01-17-main-INFO -com.cg.mob.dao.MobDaoImpl:IN Finally BLOCK
