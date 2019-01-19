@@ -9,4 +9,10 @@ public interface UniversityService {
 
 	List<University> getAllPrograms() throws MINIException;
 
+	int applyProgram(University university) throws MINIException;
+
+	boolean validateFields(University university) throws MINIException;
+
+	List<University> getEmployeesOnId(int applicationId) throws MINIException;;
+
 }

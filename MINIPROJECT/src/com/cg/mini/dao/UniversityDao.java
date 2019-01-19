@@ -9,4 +9,8 @@ public interface UniversityDao {
 
 	List<University> getAllPrograms() throws MINIException;
 
+	int applyPrograms(University university) throws MINIException;
+
+	List<University> getEmployeesOnId(int applicationId) throws MINIException;
+
 }
